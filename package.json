@@ -1,0 +1,14 @@
+{
+  "name": "pet-tech-connect",
+  "version": "1.0.0",
+  "description": "Plataforma web de vanguardia que combina servicios de cuidado de mascotas con funcionalidades avanzadas de inteligencia artificial.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "author": "World-Class Senior Frontend Engineer",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
